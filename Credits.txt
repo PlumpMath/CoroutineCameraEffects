@@ -1,0 +1,8 @@
+CameraFade script based on script from the Unity Wiki: 
+http://wiki.unity3d.com/index.php?title=FadeInOut#Another_Fade_Script_in_C.23
+
+CameraShake script based on script from Unity TnT: 
+http://unitytipsandtricks.blogspot.com/2013/05/camera-shake.html
+
+Paint effects from Clipart Panda, http://www.clipartpanda.com/
+Clipart Panda terms of use: http://www.clipartpanda.com/terms
